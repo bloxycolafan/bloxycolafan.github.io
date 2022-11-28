@@ -2,15 +2,15 @@
 	width: 120px;
 	z-index: 1;
 	position: fixed;
-	top: 30px;
+	top: 20px;
 	left: 0;
 	background-color: rgb(82, 93, 118);
 	overflow-x: hidden;
-	padding-top: 60px;
+	padding-top: 160px;
 }
 
 .sidenav a {
-	padding: 6px 8px 2px 16px;
+	padding: 6px 8px 6px 16px;
 	text-decoration: none;
 	font-size: 16px;
 	color: white;
@@ -23,7 +23,7 @@
 
 .main {
 	margin-left: 130px;
-	padding: 0px 50px;
+	padding: 100px 10px;
 }
 
 body {
