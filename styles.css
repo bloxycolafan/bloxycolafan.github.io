@@ -1,6 +1,5 @@
 .sidenav {
-	text-align: center;
-	width: 160px;
+	width: 120px;
 	z-index: 1;
 	position: fixed;
 	top: 30px;
@@ -9,12 +8,13 @@
 	overflow-x: hidden;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	margin-top: 80px;
 }
 
 .sidenav a {
 	padding: 6px 8px 6px 12px;
 	text-decoration: none;
-	font-size: 16px;
+	font-size: 20px;
 	color: white;
 	display: block;
 }
@@ -24,7 +24,9 @@
 }
 
 .main {
+	margin-top: 100px;
 	margin-left: 160px;
+	max-width: 856px;
 	padding: 0px 10px;
 }
 
@@ -33,11 +35,9 @@ body {
 }
 
 h1 {
-	text-align: center;
 	color: white;
 }
 
 p {
-	text-align: center;
 	color: white;
 }
