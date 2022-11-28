@@ -8,7 +8,7 @@
 	overflow-x: hidden;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	margin-top: 80px;
+	margin-top: 40px;
 }
 
 .sidenav a {
@@ -24,7 +24,7 @@
 }
 
 .main {
-	margin-top: 100px;
+	margin-top: 60px;
 	margin-left: 160px;
 	max-width: 856px;
 	padding: 0px 10px;
